@@ -7,4 +7,5 @@ This excel project answered questions, potential stakeholders may want to find r
 
 
 
-![image](https://github.com/Gerrad-O/Bike-Sales-Project/assets/161075394/c2fb3c7d-8c1b-448b-8321-0c3337c3784b)
+![image](https://github.com/Gerrad-O/Bike-Sales-Project/assets/161075394/d3e22afb-26ad-4528-82cf-2b50591d324d)
+
